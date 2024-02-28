@@ -1261,7 +1261,7 @@ local function THGI_fake_script() -- TextButton.LocalScript
 	local script = Instance.new('LocalScript', TextButton)
 
 	script.Parent.MouseButton1Down:connect(function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/ZombAttackMobile/main/README.md'),true))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/cool83birdcarfly02six/fsfv832vwaww/main/README.md"))()
 		end)
 end
 coroutine.wrap(THGI_fake_script)()
