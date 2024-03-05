@@ -298,7 +298,7 @@ TextLabel_2.BorderSizePixel = 0
 TextLabel_2.Position = UDim2.new(0.179775283, 0, 0.523809552, 0)
 TextLabel_2.Size = UDim2.new(0, 200, 0, 12)
 TextLabel_2.Font = Enum.Font.ArialBold
-TextLabel_2.Text = "Last Update: 00/00/00"
+TextLabel_2.Text = "Last Update: 26/02/24"
 TextLabel_2.TextColor3 = Color3.fromRGB(109, 109, 109)
 TextLabel_2.TextSize = 9.000
 TextLabel_2.TextXAlignment = Enum.TextXAlignment.Left
@@ -1090,7 +1090,6 @@ TheStrongestBattlegrounds.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TheStrongestBattlegrounds.BorderSizePixel = 0
 TheStrongestBattlegrounds.Position = UDim2.new(0.0321336761, 0, 0, 0)
 TheStrongestBattlegrounds.Size = UDim2.new(0, 364, 0, 75)
-TheStrongestBattlegrounds.Visible = false
 
 Frame_13.Parent = TheStrongestBattlegrounds
 Frame_13.BackgroundColor3 = Color3.fromRGB(31, 31, 31)
@@ -1128,7 +1127,7 @@ TextLabel_26.BorderSizePixel = 0
 TextLabel_26.Position = UDim2.new(0.179775283, 0, 0.523809552, 0)
 TextLabel_26.Size = UDim2.new(0, 200, 0, 12)
 TextLabel_26.Font = Enum.Font.ArialBold
-TextLabel_26.Text = "Last Update: 04/10/2023"
+TextLabel_26.Text = "Last Update: 05/03/24"
 TextLabel_26.TextColor3 = Color3.fromRGB(109, 109, 109)
 TextLabel_26.TextSize = 9.000
 TextLabel_26.TextXAlignment = Enum.TextXAlignment.Left
@@ -1199,7 +1198,7 @@ Close.Image = "http://www.roblox.com/asset/?id=12707060750"
 
 -- Scripts:
 
-local function YJSZ_fake_script() -- Background.drag 
+local function FXCYLMA_fake_script() -- Background.drag 
 	local script = Instance.new('LocalScript', Background)
 
 	local UserInputService = game:GetService("UserInputService")
@@ -1256,112 +1255,112 @@ local function YJSZ_fake_script() -- Background.drag
 	
 	runService.Heartbeat:Connect(Update)
 end
-coroutine.wrap(YJSZ_fake_script)()
-local function THGI_fake_script() -- TextButton.LocalScript 
+coroutine.wrap(FXCYLMA_fake_script)()
+local function PDHCD_fake_script() -- TextButton.LocalScript 
 	local script = Instance.new('LocalScript', TextButton)
 
 	script.Parent.MouseButton1Down:connect(function()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/cool83birdcarfly02six/fsfv832vwaww/main/README.md"))()
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/ZombAttackMobile/main/README.md'),true))()
 		end)
 end
-coroutine.wrap(THGI_fake_script)()
-local function YYVR_fake_script() -- TextButton_2.LocalScript 
+coroutine.wrap(PDHCD_fake_script)()
+local function HLSZMDZ_fake_script() -- TextButton_2.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_2)
 
 	script.Parent.MouseButton1Down:connect(function()
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/PrisonLife-Mobile/main/README.md'),true))()
 		end)
 end
-coroutine.wrap(YYVR_fake_script)()
-local function EPRHQ_fake_script() -- TextButton_3.LocalScript 
+coroutine.wrap(HLSZMDZ_fake_script)()
+local function WDOUI_fake_script() -- TextButton_3.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_3)
 
 	script.Parent.MouseButton1Down:connect(function()
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/LuckyBlocksMobile/main/README.md'),true))()
 		end)
 end
-coroutine.wrap(EPRHQ_fake_script)()
-local function LBUTU_fake_script() -- TextButton_4.LocalScript 
+coroutine.wrap(WDOUI_fake_script)()
+local function IWCJZM_fake_script() -- TextButton_4.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_4)
 
 	script.Parent.MouseButton1Down:connect(function()
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/TOHMOBILE/main/README.md'),true))()
 		end)
 end
-coroutine.wrap(LBUTU_fake_script)()
-local function VZKWTL_fake_script() -- TextButton_5.LocalScript 
+coroutine.wrap(IWCJZM_fake_script)()
+local function LVSVXV_fake_script() -- TextButton_5.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_5)
 
 	script.Parent.MouseButton1Down:connect(function()
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/AllOfUsAreDeadMobile/main/README.md'),true))()
 		end)
 end
-coroutine.wrap(VZKWTL_fake_script)()
-local function EFQSHKT_fake_script() -- TextButton_6.LocalScript 
+coroutine.wrap(LVSVXV_fake_script)()
+local function SVPIH_fake_script() -- TextButton_6.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_6)
 
 	script.Parent.MouseButton1Down:connect(function()
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/EverySecondYouGet1JumpPowerMobile/main/README.md'),true))()
 		end)
 end
-coroutine.wrap(EFQSHKT_fake_script)()
-local function XUECHEU_fake_script() -- TextButton_7.LocalScript 
+coroutine.wrap(SVPIH_fake_script)()
+local function ICYSYCM_fake_script() -- TextButton_7.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_7)
 
 	script.Parent.MouseButton1Down:connect(function()
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/KATMobile/main/README.md'),true))()
 		end)
 end
-coroutine.wrap(XUECHEU_fake_script)()
-local function JRZR_fake_script() -- TextButton_8.LocalScript 
+coroutine.wrap(ICYSYCM_fake_script)()
+local function PBDFDEZ_fake_script() -- TextButton_8.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_8)
 
 	script.Parent.MouseButton1Down:connect(function()
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/ShadowBoxingMobile/main/README.md'),true))()
 		end)
 end
-coroutine.wrap(JRZR_fake_script)()
-local function QGQTBH_fake_script() -- TextButton_9.LocalScript 
+coroutine.wrap(PBDFDEZ_fake_script)()
+local function BHZROIO_fake_script() -- TextButton_9.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_9)
 
 	script.Parent.MouseButton1Down:connect(function()
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/DrivingEmpireMobile/main/README.md'),true))()
 		end)
 end
-coroutine.wrap(QGQTBH_fake_script)()
-local function EZQIJT_fake_script() -- TextButton_10.LocalScript 
+coroutine.wrap(BHZROIO_fake_script)()
+local function LPSAYJ_fake_script() -- TextButton_10.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_10)
 
 	script.Parent.MouseButton1Down:connect(function()
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/BulkedUpMobile/main/README.md'),true))()
 		end)
 end
-coroutine.wrap(EZQIJT_fake_script)()
-local function UJNWM_fake_script() -- TextButton_11.LocalScript 
+coroutine.wrap(LPSAYJ_fake_script)()
+local function XMUS_fake_script() -- TextButton_11.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_11)
 
 	script.Parent.MouseButton1Down:connect(function()
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/GreenVilleMobile/main/README.md'),true))()
 		end)
 end
-coroutine.wrap(UJNWM_fake_script)()
-local function UKVMILR_fake_script() -- TextButton_12.LocalScript 
+coroutine.wrap(XMUS_fake_script)()
+local function EIQH_fake_script() -- TextButton_12.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_12)
 
 	script.Parent.MouseButton1Down:connect(function()
 		loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/BladeBallMobile/main/README.md'),true))()
 		end)
 end
-coroutine.wrap(UKVMILR_fake_script)()
-local function IZNVV_fake_script() -- TextButton_13.LocalScript 
+coroutine.wrap(EIQH_fake_script)()
+local function PNTGKF_fake_script() -- TextButton_13.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_13)
 
 	script.Parent.MouseButton1Down:connect(function()
-		loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/TheStrongestBattlegroundsMOBILE/main/README.md'),true))()
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/TheStrongestBattlegroundsPC/main/README.md'),true))()
 		end)
 end
-coroutine.wrap(IZNVV_fake_script)()
-local function KIVEOX_fake_script() -- Close.LocalScript 
+coroutine.wrap(PNTGKF_fake_script)()
+local function SCTO_fake_script() -- Close.LocalScript 
 	local script = Instance.new('LocalScript', Close)
 
 	script.Parent.MouseButton1Down:connect(function()
@@ -1372,4 +1371,4 @@ local function KIVEOX_fake_script() -- Close.LocalScript
 	
 	end)
 end
-coroutine.wrap(KIVEOX_fake_script)()
+coroutine.wrap(SCTO_fake_script)()
